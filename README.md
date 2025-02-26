@@ -5,8 +5,6 @@
 ## Fullstack Web Developer & Mobile App Developer
 
 ### Connect with me:
-
-- [GitHub](https://github.com/yourusername)
 - [Upwork](https://www.upwork.com/freelancers/yourid)
 - [LinkedIn](https://linkedin.com/in/yourusername)
 - [WhatsApp](https://wa.me/yournumber)
