@@ -1,1 +1,1 @@
-## Fullstack Web Developer & Mobile App Developer
+## Fullstack Web & Mobile App Developer
