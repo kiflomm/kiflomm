@@ -4,7 +4,8 @@
 
 ⭐ Thanks for visiting my profile!
 
-I'm a software developer who enjoys learning new technologies, building projects, and solving problems through code.
+With 7 years of programming experience — including 3 years of professional work —
+I enjoy building impactful projects, learning new technologies, and solving real problems through code.
 
 </div>
 
