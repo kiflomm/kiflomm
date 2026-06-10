@@ -1,6 +1,6 @@
 <div align="center">
 
-## I'm kiflom, Fullstack Web & Mobile App Developer
+## 👋 Hi, I'm Kiflom — Fullstack Web & Mobile App Developer
 
 ⭐ Thanks for visiting my profile!
 
