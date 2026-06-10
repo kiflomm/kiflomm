@@ -1,8 +1,12 @@
+<div align="center">
+
 ## I'm kiflom, Fullstack Web & Mobile App Developer
 
 ⭐ Thanks for visiting my profile!
 
 I'm a software developer who enjoys learning new technologies, building projects, and solving problems through code.
+
+</div>
 
 <table>
 <tr>
