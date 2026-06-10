@@ -11,17 +11,7 @@ I'm a software developer with 7 years of programming experience, including 3 yea
 <div align="center">
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### About Me
-
-- Passionate about software development
-- Always learning and improving
-- Interested in building useful applications
-- Open to collaboration and new opportunities
-
-</td>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### What You'll Find Here
 
@@ -51,4 +41,3 @@ Feel free to explore my repositories and connect with me.
 </div>
 
 ---
-
