@@ -4,28 +4,31 @@ Welcome to my GitHub profile.
 
 I'm a software developer who enjoys learning new technologies, building projects, and solving problems through code.
 
-## About Me
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### About Me
 
 - 💻 Passionate about software development
 - 📚 Always learning and improving
 - 🚀 Interested in building useful applications
 - 🤝 Open to collaboration and new opportunities
 
-## Skills
+</td>
+<td width="50%" valign="top">
 
-- Programming
-- Problem Solving
-- Software Development
-- Team Collaboration
-- Continuous Learning
-
-## What You'll Find Here
+### What You'll Find Here
 
 - Personal projects
 - Learning experiments
 - Open-source contributions
 - Practice repositories
 - Technical explorations
+
+</td>
+</tr>
+</table>
 
 ## Contact
 
