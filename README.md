@@ -4,14 +4,11 @@
 
 ⭐ Thanks for visiting my profile!
 
-I'm a software developer with 7 years of programming experience, including 3 years working professionally.I enjoy building meaningful software,learning new technologies, and turning ideas into solutions that make a real difference.
+I'm a software developer with 7 years of programming experience, including 3 years working professionally. I enjoy building meaningful software, learning new technologies, and turning ideas into solutions that make a real difference.
 
 </div>
 
 <div align="center">
-<table width="100%">
-<tr>
-<td width="100%" valign="top">
 
 ### What You'll Find Here
 
@@ -21,9 +18,6 @@ I'm a software developer with 7 years of programming experience, including 3 yea
 - Practice repositories
 - Technical explorations
 
-</td>
-</tr>
-</table>
 </div>
 
 ## Contact
