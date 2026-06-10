@@ -10,22 +10,6 @@ I'm a software developer with 7 years of programming experience, including 3 yea
 
 <div align="center">
 
-### What You'll Find Here
-
-- Personal projects
-- Learning experiments
-- Open-source contributions
-- Practice repositories
-- Technical explorations
-
-</div>
-
-## Contact
-
-Feel free to explore my repositories and connect with me.
-
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiflom-berihu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kiflom.vercel.app)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/brogrammer_kiflom)
