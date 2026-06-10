@@ -4,8 +4,7 @@
 
 ⭐ Thanks for visiting my profile!
 
-With 7 years of programming experience — including 3 years of professional work —
-I enjoy building impactful projects, learning new technologies, and solving real problems through code.
+I'm a software developer with 7 years of programming experience, including 3 years working professionally.I enjoy building meaningful software,learning new technologies, and turning ideas into solutions that make a real difference.
 
 </div>
 
@@ -15,10 +14,10 @@ I enjoy building impactful projects, learning new technologies, and solving real
 
 ### About Me
 
-- 💻 Passionate about software development
-- 📚 Always learning and improving
-- 🚀 Interested in building useful applications
-- 🤝 Open to collaboration and new opportunities
+-  Passionate about software development
+-  Always learning and improving
+-  Interested in building useful applications
+-  Open to collaboration and new opportunities
 
 </td>
 <td width="50%" valign="top">
