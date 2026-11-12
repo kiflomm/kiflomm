@@ -20,4 +20,3 @@ I'm a software developer with 7 years of programming experience, including 3 yea
 <div align="left">
  𝘕𝘦𝘴𝘵⭐𝘍𝘭𝘶𝘵𝘵𝘦𝘳⭐𝘓𝘢𝘳𝘢𝘷el⭐𝘕𝘦𝘹𝘵⭐𝘌𝘹𝘱𝘰⭐𝘌𝘹𝘱𝘳𝘦𝘴𝘴⭐𝘙𝘦𝘢𝘤𝘵
 </div>  
----
