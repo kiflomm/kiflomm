@@ -17,5 +17,7 @@ I'm a software developer with 7 years of programming experience, including 3 yea
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~011e4bb830aeb14cd2?mp_source=share)
 
 </div>
-
+<div align="left">
+ 𝘕𝘦𝘴𝘵⭐𝘍𝘭𝘶𝘵𝘵𝘦𝘳⭐𝘓𝘢𝘳𝘢𝘷el⭐𝘕𝘦𝘹𝘵⭐𝘌𝘹𝘱𝘰⭐𝘌𝘹𝘱𝘳𝘦𝘴𝘴⭐𝘙𝘦𝘢𝘤𝘵
+</div>  
 ---
